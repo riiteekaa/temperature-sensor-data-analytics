@@ -38,5 +38,8 @@ identifying heating phases, thermal equilibrium, and key statistics.
 4. Run `python export_for_powerbi.py`
 5. Open `temperature_dashboard.pbix` in Power BI Desktop
 
-## Dashboard Preview
+## Python Analysis Chart
 ![Temperature Analysis](temperature_analysis.png)
+
+## Power BI Dashboard
+![Power BI Dashboard](dashboard_preview.png)
