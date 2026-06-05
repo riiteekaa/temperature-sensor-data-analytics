@@ -1,4 +1,4 @@
-# 🌡️ Temperature Sensor Analytics Pipeline
+# Temperature Sensor Analytics Pipeline
 
 An end-to-end data analytics project built with real industrial 
 sensor data, developed as part of an internship application 
@@ -36,7 +36,7 @@ identifying heating phases, thermal equilibrium, and key statistics.
 2. Run `python analysis.py`
 3. Run `python database.py`
 4. Run `python export_for_powerbi.py`
-5. Open `temperature_dashboard.pbix` in Power BI Desktop
+5. Open `temperature_dashboard.pdf` in Power BI Desktop
 
 ## Dashboard Preview
 ![Temperature Analysis](temperature_analysis.png)
