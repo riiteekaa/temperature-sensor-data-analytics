@@ -1,0 +1,3 @@
+phase,readings,avg_temp,min_temp,max_temp
+Heating phase,561,40.15,28.87,42.63
+Stable phase,132,42.55,42.44,42.69
