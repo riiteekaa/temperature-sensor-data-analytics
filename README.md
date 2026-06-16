@@ -1,8 +1,7 @@
 # 🌡️ Temperature Sensor Analytics Pipeline
 
 An end-to-end data analytics project built with real industrial 
-sensor data, developed as part of an internship application 
-for Endress+Hauser.
+sensor data.
 
 ## Project Overview
 Analysis of 693 temperature readings captured over 14.82 minutes,
